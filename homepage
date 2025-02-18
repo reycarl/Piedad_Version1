@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <link rel="stylesheet" href="landing_page.css">
+</head>
+<body>
+    <header>
+        <h1>WELCOME!</h1>
+    </header>
+    
+    <nav>
+            <a href="homepage.html">Home</a>
+            <a href="blog.html">Blog</a>
+            <a href="testimonial.html">Testimonial</a>
+            <a href="projects.html">Projects</a>
+            <a href="academic-training.html">Academic/Training</a>
+            <a href="work-experience.html">Work Experience</a>
+        
+    </nav>
+
+    <div class="container">
+        <div class="content">
+            <section id="home" class="section">
+                <h2>Hi, Welcome!</h2>
+            </section>
+
+            <section id="about" class="section">
+                <h2>About Me</h2>
+                <p>I'm <strong>Carl Rey A. Piedad</strong>, a 2nd-year IT student at <em>Saint Joseph College of Baggao</em>. I'm 19 yrs. old and currently living at J.Pallagao, Baggao, Cagayan.</p>
+                <h2>HOBBIES</h2>
+                <ul>
+                    <li>Volleyball</li>
+                    <li>Basketball</li>
+                    <li>Playing MOBA GAME (such as ML, CODM, and PUBG)</li>
+                </ul>
+            </section>
+
+            <section id="contact" class="section">
+                <h2>Contact</h2>
+                <p><strong>Phone:</strong> 09559808135</p>
+                <p><strong>Email:</strong> <a href="mailto:carlreypiedad0225@gmail.com">carlreypiedad0225@gmail.com</a></p>
+            </section>
+        </div>
+        
+        <aside class="sidebar">
+            <img src="profile pic.jpg" alt="Profile Picture" class="profile-pic">
+            <h2><em>MEMENTO MORI</em></h2>
+            
+            
+        </aside>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 My Profile. All rights reserved.</p>
+    </footer>
+</body>
+</html>
