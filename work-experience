@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <link rel="stylesheet" href="landing_page.css">
+</head>
+<header>
+    <h1>WELCOME!</h1>
+</header>
+<nav>
+    <a href="homepage.html">Home</a>
+    <a href="blog.html">Blog</a>
+    <a href="testimonial.html">Testimonial</a>
+    <a href="projects.html">Projects</a>
+    <a href="academic-training.html">Academic/Training</a>
+    <a href="work-experience.html">Work Experience</a>
+
+</nav>
+<div class="container">
+    <div class="content">
+        <section id="about" class="section">
+            <h2>Work Experience</h2>
+            <p></p>
+        </section>
+<body>
+
+    
+</body>
+</html>
