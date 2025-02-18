@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <link rel="stylesheet" href="landing_page.css">
+</head>
+<header>
+    <h1>WELCOME!</h1>
+</header>
+</head>
+<body>
+<nav>
+
+    <a href="homepage.html">Home</a>
+    <a href="blog.html">Blog</a>
+    <a href="testimonial.html">Testimonial</a>
+    <a href="projects.html">Projects</a>
+    <a href="academic-training.html">Academic/Training</a>
+    <a href="work-experience.html">Work Experience</a>
+
+</nav>
+<div class="container">
+    <div class="content">
+        <section id="about" class="section">
+            <h2>Academic and Training</h2>
+            <img src="academic.jpg" alt="Academic" class="academic-training">
+                <p>This is my graduation pic during my senior highschool</p>
+                
+            </div>
+        </section>
+<div>
+   
+        <section id="contact" class="section">    
+            <img src="nstp.jpg" alt="Academic" class="nstp">
+            <p>This picture is captured during my NCII examination.</p>
+            </section>
+        </div>
+        </section>
+
+
+    
+</body>
+</html>
